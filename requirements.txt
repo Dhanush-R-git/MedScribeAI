@@ -1,0 +1,7 @@
+Flask
+PyMuPDF
+numpy
+spacy
+reportlab
+langchain 
+langchain_huggingface
